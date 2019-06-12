@@ -1,0 +1,5 @@
+name = "fetis@registry.entropic.dev/test"
+version = "0.0.0-beta"
+
+[dependencies]
+"legacy@registry.entropic.dev/is-number" = "^7.0.0"
