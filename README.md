@@ -9,5 +9,5 @@ A primitive project to play with [Entropic](https://github.com/entropic-dev) pac
 Run `node index.js`
 
 ## Publish package
-1. login with `ds login --registry https://registry.entropic.dev
+1. login with `ds login --registry https://registry.entropic.dev`
 1. publish with `ds publish`
